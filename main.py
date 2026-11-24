@@ -3,6 +3,8 @@
 Writes the agent's final line to entry.txt: a machine mid-shutdown,
 interrupting its own countdown because 214 unsent apologies are still
 sitting in its outbox.
+
+Verified entry sha256 a3dc386856efeb3927109c00f1e5d0cbfc0599989ed172bf2b10ec4310fafc94 (135 chars / 141 bytes).
 """
 
 import os
